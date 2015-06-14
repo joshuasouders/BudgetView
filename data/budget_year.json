@@ -1,0 +1,4376 @@
+[ {
+  "id" : "A15O00",
+  "current_budget" : "155466737",
+  "department" : "PAYMENTS TO CIVIL DIVISIONS OF THE STATE",
+  "name" : "DISPARITY GRANTS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "B75A01",
+  "current_budget" : "78353398",
+  "department" : "GENERAL ASSEMBLY OF MARYLAND",
+  "name" : "GENERAL ASSEMBLY OF MARYLAND",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C00A00",
+  "current_budget" : "450228205",
+  "department" : "JUDICIARY",
+  "name" : "JUDICIARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C80B00",
+  "current_budget" : "97778862",
+  "department" : "OFFICE OF THE PUBLIC DEFENDER",
+  "name" : "OFFICE OF THE PUBLIC DEFENDER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C81C00",
+  "current_budget" : "26784351",
+  "department" : "OFFICE OF THE ATTORNEY GENERAL",
+  "name" : "OFFICE OF THE ATTORNEY GENERAL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C82D00",
+  "current_budget" : "1339713",
+  "department" : "OFFICE OF THE STATE PROSECUTOR",
+  "name" : "OFFICE OF THE STATE PROSECUTOR",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C85E00",
+  "current_budget" : "568015",
+  "department" : "MARYLAND TAX COURT",
+  "name" : "MARYLAND TAX COURT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C90G00",
+  "current_budget" : "42527702",
+  "department" : "PUBLIC SERVICE COMMISSION",
+  "name" : "PUBLIC SERVICE COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C91H00",
+  "current_budget" : "3656939",
+  "department" : "OFFICE OF THE PEOPLE'S COUNSEL",
+  "name" : "OFFICE OF THE PEOPLE'S COUNSEL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C94I00",
+  "current_budget" : "2117979",
+  "department" : "SUBSEQUENT INJURY FUND",
+  "name" : "SUBSEQUENT INJURY FUND",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C96J00",
+  "current_budget" : "1268351",
+  "department" : "UNINSURED EMPLOYERS' FUND",
+  "name" : "UNINSURED EMPLOYERS' FUND",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "C98F00",
+  "current_budget" : "13054530",
+  "department" : "WORKERS' COMPENSATION COMMISSION",
+  "name" : "WORKERS' COMPENSATION COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D05E01",
+  "current_budget" : "7729022",
+  "department" : "BOARD OF PUBLIC WORKS",
+  "name" : "BOARD OF PUBLIC WORKS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D06E02",
+  "current_budget" : "28950000",
+  "department" : "BOARD OF PUBLIC WORKS - CAPITAL APPROPRIATION",
+  "name" : "BOARD OF PUBLIC WORKS - CAPITAL APPROPRIATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D10A01",
+  "current_budget" : "10691605",
+  "department" : "EXECUTIVE DEPARTMENT",
+  "name" : "EXECUTIVE DEPARTMENT - GOVERNOR",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D11A04",
+  "current_budget" : "347811",
+  "department" : "OFFICE OF THE DEAF AND HARD OF HEARING",
+  "name" : "OFFICE OF THE DEAF AND HARD OF HEARING",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D12A02",
+  "current_budget" : "5546929",
+  "department" : "DEPARTMENT OF DISABILITIES",
+  "name" : "DEPARTMENT OF DISABILITIES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D13A13",
+  "current_budget" : "49743145",
+  "department" : "MARYLAND ENERGY ADMINISTRATION",
+  "name" : "MARYLAND ENERGY ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D15A05",
+  "current_budget" : "127006120",
+  "department" : "EXECUTIVE DEPT-BOARDS, COMMISSIONS AND OFFICES",
+  "name" : "EXECUTIVE DEPT-BOARDS, COMMISSIONS AND OFFICES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D16A06",
+  "current_budget" : "2304614",
+  "department" : "SECRETARY OF STATE",
+  "name" : "SECRETARY OF STATE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D17B01",
+  "current_budget" : "2850269",
+  "department" : "HISTORIC ST. MARY'S CITY COMMISSION",
+  "name" : "HISTORIC ST. MARY'S CITY COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D18A18",
+  "current_budget" : "1478869",
+  "department" : "GOVERNOR'S OFFICE FOR CHILDREN",
+  "name" : "GOVERNOR'S OFFICE FOR CHILDREN",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D25E03",
+  "current_budget" : "1747068",
+  "department" : "INTERAGENCY COMMITTEE ON SCHOOL CONSTRUCTION",
+  "name" : "INTERAGENCY COMMITTEE ON SCHOOL CONSTRUCTION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D26A07",
+  "current_budget" : "48687090",
+  "department" : "DEPARTMENT OF AGING",
+  "name" : "DEPARTMENT OF AGING",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D27L00",
+  "current_budget" : "2887127",
+  "department" : "MARYLAND COMMISSION ON CIVIL RIGHTS",
+  "name" : "MARYLAND COMMISSION ON CIVIL RIGHTS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D28A03",
+  "current_budget" : "34890761",
+  "department" : "MARYLAND STADIUM AUTHORITY",
+  "name" : "MARYLAND STADIUM AUTHORITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D38I01",
+  "current_budget" : "18202892",
+  "department" : "STATE BOARD OF ELECTIONS",
+  "name" : "STATE BOARD OF ELECTIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D39S00",
+  "current_budget" : "642998",
+  "department" : "MARYLAND STATE BOARD OF CONTRACT APPEALS",
+  "name" : "MARYLAND STATE BOARD OF CONTRACT APPEALS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D40W01",
+  "current_budget" : "27470442",
+  "department" : "DEPARTMENT OF PLANNING",
+  "name" : "DEPARTMENT OF PLANNING",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D50H01",
+  "current_budget" : "84109263",
+  "department" : "MILITARY DEPARTMENT",
+  "name" : "MILITARY DEPARTMENT OPERATIONS AND MAINTENANCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D53T00",
+  "current_budget" : "15947449",
+  "department" : "MD INSTITUTE FOR EMERGENCY MEDICAL SERVICESSYSTEMS",
+  "name" : "MD INSTITUTE FOR EMERGENCY MEDICAL SERVICESSYSTEMS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D55P00",
+  "current_budget" : "28485002",
+  "department" : "DEPARTMENT OF VETERANS AFFAIRS",
+  "name" : "DEPARTMENT OF VETERANS AFFAIRS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D60A10",
+  "current_budget" : "8362625",
+  "department" : "STATE ARCHIVES",
+  "name" : "STATE ARCHIVES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D78Y01",
+  "current_budget" : "152452088",
+  "department" : "MARYLAND HEALTH BENEFIT EXCHANGE",
+  "name" : "MARYLAND HEALTH BENEFIT EXCHANGE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D79Z02",
+  "current_budget" : "171612074",
+  "department" : "MARYLAND HEALTH INSURANCE PLAN",
+  "name" : "HEALTH INSURANCE SAFETY NET PROGRAMS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D80Z01",
+  "current_budget" : "28931613",
+  "department" : "MARYLAND INSURANCE ADMINISTRATION",
+  "name" : "INSURANCE ADMINISTRATION AND REGULATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D90U00",
+  "current_budget" : "556644",
+  "department" : "CANAL PLACE PRESERVATION AND DEVELOPMENT AUTHORITY",
+  "name" : "CANAL PLACE PRESERVATION AND DEVELOPMENT AUTHORITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "D99A11",
+  "current_budget" : "1065968",
+  "department" : "OFFICE OF ADMINISTRATIVE HEARINGS",
+  "name" : "OFFICE OF ADMINISTRATIVE HEARINGS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A01",
+  "current_budget" : "6357665",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "OFFICE OF THE COMPTROLLER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A02",
+  "current_budget" : "4848605",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "GENERAL ACCOUNTING DIVISION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A03",
+  "current_budget" : "834169",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "BUREAU OF REVENUE ESTIMATES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A04",
+  "current_budget" : "32199269",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "REVENUE ADMINISTRATION DIVISION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A05",
+  "current_budget" : "32032553",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "COMPLIANCE DIVISION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A06",
+  "current_budget" : "5298409",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "FIELD ENFORCEMENT DIVISION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A09",
+  "current_budget" : "2462173",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "CENTRAL PAYROLL BUREAU",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E00A10",
+  "current_budget" : "12439741",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "INFORMATION TECHNOLOGY DIVISION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E20B01",
+  "current_budget" : "5413184",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "TREASURY MANAGEMENT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E20B02",
+  "current_budget" : "0",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "INSURANCE PROTECTION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E20B03",
+  "current_budget" : "666898",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "BOND SALE EXPENSES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E50C00",
+  "current_budget" : "129490746",
+  "department" : "STATE DEPARTMENT OF ASSESSMENTS AND TAXATION",
+  "name" : "STATE DEPARTMENT OF ASSESSMENTS AND TAXATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E75D00",
+  "current_budget" : "151748389",
+  "department" : "STATE LOTTERY AND GAMING CONTROL AGENCY",
+  "name" : "STATE LOTTERY AND GAMING CONTROL AGENCY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "E80E00",
+  "current_budget" : "969161",
+  "department" : "PROPERTY TAX ASSESSMENT APPEALS BOARDS",
+  "name" : "PROPERTY TAX ASSESSMENT APPEALS BOARDS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "F10A01",
+  "current_budget" : "16004229",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "F10A02",
+  "current_budget" : "6393288",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF PERSONNEL SERVICES AND BENEFITS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "F10A05",
+  "current_budget" : "2260443",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF BUDGET ANALYSIS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "F10A06",
+  "current_budget" : "882789",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF CAPITAL BUDGETING",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "F50A01",
+  "current_budget" : "20100566",
+  "department" : "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "name" : "MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJ FUND",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "F50B04",
+  "current_budget" : "32095436",
+  "department" : "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "name" : "OFFICE OF INFORMATION TECHNOLOGY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "G20J01",
+  "current_budget" : "17346777",
+  "department" : "MARYLAND STATE RETIREMENT AND PENSION SYSTEMS",
+  "name" : "STATE RETIREMENT AGENCY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "G50L00",
+  "current_budget" : "1521864",
+  "department" : "TEACHERS AND STATE EMPLOYEES SUPP'L RETIREMENT PLN",
+  "name" : "TEACHERS AND STATE EMPLOYEES SUPP'L RETIREMENT PLN",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "H00A01",
+  "current_budget" : "4707764",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "H00B01",
+  "current_budget" : "7710618",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES SECURITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "H00C01",
+  "current_budget" : "34500925",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES OPERATION AND MAINTENANCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "H00D01",
+  "current_budget" : "5060574",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF PROCUREMENT AND LOGISTICS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "H00E01",
+  "current_budget" : "1914376",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF REAL ESTATE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "H00G01",
+  "current_budget" : "12298902",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES PLANNING, DESIGN AND CONSTRUC",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00A01",
+  "current_budget" : "541968533",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "THE SECRETARY'S OFFICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00A04",
+  "current_budget" : "200455245",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "DEBT SERVICE REQUIREMENTS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00B01",
+  "current_budget" : "1511531749",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "STATE HIGHWAY ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00D00",
+  "current_budget" : "122343418",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND PORT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00E00",
+  "current_budget" : "204889391",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MOTOR VEHICLE ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00H01",
+  "current_budget" : "1133789842",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND TRANSIT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "J00I00",
+  "current_budget" : "290943545",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND AVIATION ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A01",
+  "current_budget" : "16243240",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A02",
+  "current_budget" : "10842673",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "FOREST SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A03",
+  "current_budget" : "10370939",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "WILDLIFE AND HERITAGE SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A04",
+  "current_budget" : "37331188",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "MARYLAND PARK SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A05",
+  "current_budget" : "37264750",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "LAND ACQUISITION AND PLANNING",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A06",
+  "current_budget" : "3291967",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "LICENSING AND REGISTRATION SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A07",
+  "current_budget" : "37327673",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "NATURAL RESOURCES POLICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A09",
+  "current_budget" : "5307579",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "ENGINEERING AND CONSTRUCTION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A10",
+  "current_budget" : "1730035",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "CRITICAL AREA COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A11",
+  "current_budget" : "9345298",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "BOATING SERVICES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A12",
+  "current_budget" : "13462416",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "RESOURCE ASSESSMENT SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A13",
+  "current_budget" : "580437",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "MARYLAND ENVIRONMENTAL TRUST",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A14",
+  "current_budget" : "23626239",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "CHESAPEAKE AND COASTAL SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "K00A17",
+  "current_budget" : "21135027",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "FISHERIES SERVICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "L00A11",
+  "current_budget" : "31113628",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "L00A12",
+  "current_budget" : "18810484",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF MARKETING, ANIMAL INDUSTS,&CONSUMER SVCS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "L00A14",
+  "current_budget" : "10709294",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF PLANT INDUSTRIES AND PEST MANAGEMENT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "L00A15",
+  "current_budget" : "37916737",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF RESOURCE CONSERVATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00A01",
+  "current_budget" : "38072317",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00B01",
+  "current_budget" : "42550627",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "REGULATORY SERVICES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00F01",
+  "current_budget" : "6395445",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEPUTY SECRETARY FOR PUBLIC HEALTH SERVICES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00F02",
+  "current_budget" : "49916300",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HEALTH SYSTEMS AND INFRASTRUCTURE ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00F03",
+  "current_budget" : "325428989",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "PREVENTION AND HEALTH PROMOTION ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00F05",
+  "current_budget" : "10812215",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF THE CHIEF MEDICAL EXAMINER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00F06",
+  "current_budget" : "16540619",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF PREPAREDNESS AND RESPONSE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00I03",
+  "current_budget" : "24120148",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "WESTERN MARYLAND CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00I04",
+  "current_budget" : "22898706",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEER'S HEAD CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00J02",
+  "current_budget" : "33222380",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "LABORATORIES ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00K01",
+  "current_budget" : "2010457",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEPUTY SECY FOR BEHAVIORAL HEALTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L01",
+  "current_budget" : "1009292960",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "BEHAVIORAL HEALTH ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L04",
+  "current_budget" : "18737040",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "THOMAS B. FINAN HOSPITAL CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L05",
+  "current_budget" : "13462415",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "REGIONAL INSTITUTE FOR CHILDREN & ADOLESCENTS-BALT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L07",
+  "current_budget" : "18620197",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "EASTERN SHORE HOSPITAL CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L08",
+  "current_budget" : "70814806",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "SPRINGFIELD HOSPITAL CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L09",
+  "current_budget" : "77798839",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "SPRING GROVE HOSPITAL CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L10",
+  "current_budget" : "60794115",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "CLIFTON T. PERKINS HOSPITAL CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L11",
+  "current_budget" : "10467935",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "JOHN L. GILDNER REG INST FOR CHILDREN AND ADOLESCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00L15",
+  "current_budget" : "1836143",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "BEHAVIORAL HEALTH ADMINISTRATION FACILITY MAINTENA",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00M01",
+  "current_budget" : "909184675",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEVELOPMENTAL DISABILITIES ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00M05",
+  "current_budget" : "17520887",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HOLLY CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00M06",
+  "current_budget" : "8329501",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DDA COURT INVOLVED SERVICE DELIVERY SYSTEM",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00M07",
+  "current_budget" : "12713059",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "POTOMAC CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00M15",
+  "current_budget" : "1935977",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEVELOPMENTAL DISABILITIES ADMINISTRATION FACILITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00Q01",
+  "current_budget" : "7666039571",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "MEDICAL CARE PROGRAMS ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "M00R01",
+  "current_budget" : "181211094",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HEALTH REGULATORY COMMISSIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00A01",
+  "current_budget" : "29737463",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00B00",
+  "current_budget" : "21670300",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "SOCIAL SERVICES ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00E01",
+  "current_budget" : "31116112",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OPERATIONS OFFICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00F00",
+  "current_budget" : "63328215",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OFFICE OF TECHNOLOGY FOR HUMAN SERVICES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00G00",
+  "current_budget" : "2169913299",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "LOCAL DEPARTMENT OPERATIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00H00",
+  "current_budget" : "44621079",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "CHILD SUPPORT ENFORCEMENT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "N00I00",
+  "current_budget" : "215579353",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "FAMILY INVESTMENT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00A01",
+  "current_budget" : "18912223",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00B01",
+  "current_budget" : "11215532",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00C01",
+  "current_budget" : "8629278",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF FINANCIAL REGULATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00D01",
+  "current_budget" : "17180917",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF LABOR AND INDUSTRY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00E01",
+  "current_budget" : "81755187",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF RACING",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00F01",
+  "current_budget" : "8738085",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSIN",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00G01",
+  "current_budget" : "116123150",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNI",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "P00H01",
+  "current_budget" : "76467738",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF UNEMPLOYMENT INSURANCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00A01",
+  "current_budget" : "132851939",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00A02",
+  "current_budget" : "68028460",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "DEPUTY SECRETARY FOR OPERATIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00A03",
+  "current_budget" : "49855015",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND CORRECTIONAL ENTERPRISES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00C01",
+  "current_budget" : "5699104",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND PAROLE COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00E00",
+  "current_budget" : "815885",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "INMATE GRIEVANCE OFFICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00G00",
+  "current_budget" : "8208682",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "POLICE AND CORRECTIONAL TRAINING COMMISSIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00K00",
+  "current_budget" : "6538718",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CRIMINAL INJURIES COMPENSATION BOARD",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00N00",
+  "current_budget" : "483897",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND COMMISSION ON CORRECTIONAL STANDARDS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00R01",
+  "current_budget" : "3358233",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - NORTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00R02",
+  "current_budget" : "349439893",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - NORTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00R03",
+  "current_budget" : "19332472",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - NORTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00S01",
+  "current_budget" : "6104072",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - SOUTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00S02",
+  "current_budget" : "302404284",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - SOUTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00S03",
+  "current_budget" : "24695947",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - SOUTH",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00T01",
+  "current_budget" : "4074963",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - CENTRAL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00T02",
+  "current_budget" : "106873037",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - CENTRAL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00T03",
+  "current_budget" : "42927535",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - CENTRAL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Q00T04",
+  "current_budget" : "165993153",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "DETENTION - CENTRAL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R00A01",
+  "current_budget" : "392242272",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "HEADQUARTERS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R00A02",
+  "current_budget" : "6794550597",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "AID TO EDUCATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R00A03",
+  "current_budget" : "31671538",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "FUNDING FOR EDUCATIONAL ORGANIZATIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R00A04",
+  "current_budget" : "20058010",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "CHILDREN'S CABINET INTERAGENCY FUND",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R00A05",
+  "current_budget" : "1702083",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "MARYLAND LONGITUDINAL DATA SYSTEM CENTER",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R13M00",
+  "current_budget" : "211020012",
+  "department" : "MORGAN STATE UNIVERSITY",
+  "name" : "MORGAN STATE UNIVERSITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R14D00",
+  "current_budget" : "65038363",
+  "department" : "ST. MARY'S COLLEGE OF MARYLAND",
+  "name" : "ST. MARY'S COLLEGE OF MARYLAND",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R15P00",
+  "current_budget" : "24795001",
+  "department" : "MARYLAND PUBLIC BROADCASTING COMMISSION",
+  "name" : "MARYLAND PUBLIC BROADCASTING COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B21",
+  "current_budget" : "1018658089",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND, BALTIMORE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B22",
+  "current_budget" : "1782947520",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B23",
+  "current_budget" : "108802708",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "BOWIE STATE UNIVERSITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B24",
+  "current_budget" : "430532925",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "TOWSON UNIVERSITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B25",
+  "current_budget" : "121841263",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND EASTERN SHORE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B26",
+  "current_budget" : "104257390",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "FROSTBURG STATE UNIVERSITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B27",
+  "current_budget" : "81976668",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "COPPIN STATE UNIVERSITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B28",
+  "current_budget" : "127392215",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF BALTIMORE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B29",
+  "current_budget" : "172351014",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "SALISBURY UNIVERSITY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B30",
+  "current_budget" : "372108337",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B31",
+  "current_budget" : "394262799",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B34",
+  "current_budget" : "43845183",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIV OF MD CENTER FOR ENVIRONMENTAL SCIENCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R30B36",
+  "current_budget" : "30495560",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY SYSTEM OF MARYLAND OFFICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R62I00",
+  "current_budget" : "468047880",
+  "department" : "MARYLAND HIGHER EDUCATION COMMISSION",
+  "name" : "MARYLAND HIGHER EDUCATION COMMISSION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R95C00",
+  "current_budget" : "85280224",
+  "department" : "BALTIMORE CITY COMMUNITY COLLEGE",
+  "name" : "BALTIMORE CITY COMMUNITY COLLEGE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R99E01",
+  "current_budget" : "19939876",
+  "department" : "MARYLAND SCHOOL FOR THE DEAF",
+  "name" : "MARYLAND SCHOOL FOR THE DEAF-FREDERICK CAMPUS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "R99E02",
+  "current_budget" : "9372315",
+  "department" : "MARYLAND SCHOOL FOR THE DEAF",
+  "name" : "MARYLAND SCHOOL FOR THE DEAF-COLUMBIA CAMPUS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S00A20",
+  "current_budget" : "6738040",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S00A22",
+  "current_budget" : "6187288",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF CREDIT ASSURANCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S00A24",
+  "current_budget" : "41763300",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF NEIGHBORHOOD REVITALIZATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S00A25",
+  "current_budget" : "283108361",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF DEVELOPMENT FINANCE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S00A26",
+  "current_budget" : "3629668",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF INFORMATION TECHNOLOGY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S00A27",
+  "current_budget" : "6253309",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF FINANCE AND ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "S50B01",
+  "current_budget" : "2000000",
+  "department" : "MARYLAND AFRICAN AMERICAN MUSEUM CORPORATION",
+  "name" : "MARYLAND AFRICAN AMERICAN MUSEUM CORPORATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "T00A00",
+  "current_budget" : "13388087",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "T00E00",
+  "current_budget" : "3523152",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF MARKETING AND COMMUNICATIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "T00F00",
+  "current_budget" : "90396776",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF BUSINESS AND ENTERPRISE DEVELOPMENT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "T00G00",
+  "current_budget" : "33338398",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF TOURISM, FILM AND THE ARTS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "T50T01",
+  "current_budget" : "18388192",
+  "department" : "MARYLAND TECHNOLOGY DEVELOPMENT CORPORATION",
+  "name" : "MARYLAND TECHNOLOGY DEVELOPMENT CORPORATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A01",
+  "current_budget" : "248052794",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A02",
+  "current_budget" : "8343789",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "OPERATIONAL SERVICES ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A04",
+  "current_budget" : "28393771",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "WATER MANAGEMENT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A05",
+  "current_budget" : "11207004",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "SCIENCE SERVICES ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A06",
+  "current_budget" : "26571472",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "LAND MANAGEMENT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A07",
+  "current_budget" : "15913211",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "AIR AND RADIATION MANAGEMENT ADMINISTRATION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "U00A10",
+  "current_budget" : "20822976",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "COORDINATING OFFICES",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00D01",
+  "current_budget" : "4113469",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00D02",
+  "current_budget" : "25637008",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "DEPARTMENTAL SUPPORT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00E01",
+  "current_budget" : "5251162",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "RESIDENTIAL AND COMMUNITY OPERATIONS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00G01",
+  "current_budget" : "64784259",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "BALTIMORE CITY REGION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00H01",
+  "current_budget" : "36766218",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "CENTRAL REGION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00I01",
+  "current_budget" : "44700369",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "WESTERN REGION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00J01",
+  "current_budget" : "21968002",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "EASTERN SHORE REGION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00K01",
+  "current_budget" : "25977794",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "SOUTHERN REGION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "V00L01",
+  "current_budget" : "58535531",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "METRO REGION",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "W00A01",
+  "current_budget" : "298573311",
+  "department" : "DEPARTMENT OF STATE POLICE",
+  "name" : "MARYLAND STATE POLICE",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "W00A02",
+  "current_budget" : "7750086",
+  "department" : "DEPARTMENT OF STATE POLICE",
+  "name" : "FIRE PREVENTION COMMISSION AND FIRE MARSHAL",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "X00A00",
+  "current_budget" : "980737543",
+  "department" : "PUBLIC DEBT",
+  "name" : "REDEMPTION AND INTEREST ON STATE BONDS",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "Y01A01",
+  "current_budget" : "55256263",
+  "department" : "STATE RESERVE FUND",
+  "name" : "REVENUE STABILIZATION ACCOUNT",
+  "year" : "2014 Actual"
+}
+, {
+  "id" : "A15O00",
+  "current_budget" : "163455826",
+  "department" : "PAYMENTS TO CIVIL DIVISIONS OF THE STATE",
+  "name" : "DISPARITY GRANTS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "B75A01",
+  "current_budget" : "82328405",
+  "department" : "GENERAL ASSEMBLY OF MARYLAND",
+  "name" : "GENERAL ASSEMBLY OF MARYLAND",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C00A00",
+  "current_budget" : "495793287",
+  "department" : "JUDICIARY",
+  "name" : "JUDICIARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C80B00",
+  "current_budget" : "96570100",
+  "department" : "OFFICE OF THE PUBLIC DEFENDER",
+  "name" : "OFFICE OF THE PUBLIC DEFENDER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C81C00",
+  "current_budget" : "33172303",
+  "department" : "OFFICE OF THE ATTORNEY GENERAL",
+  "name" : "OFFICE OF THE ATTORNEY GENERAL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C82D00",
+  "current_budget" : "1435438",
+  "department" : "OFFICE OF THE STATE PROSECUTOR",
+  "name" : "OFFICE OF THE STATE PROSECUTOR",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C85E00",
+  "current_budget" : "609330",
+  "department" : "MARYLAND TAX COURT",
+  "name" : "MARYLAND TAX COURT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C90G00",
+  "current_budget" : "46323524",
+  "department" : "PUBLIC SERVICE COMMISSION",
+  "name" : "PUBLIC SERVICE COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C91H00",
+  "current_budget" : "3888578",
+  "department" : "OFFICE OF THE PEOPLE'S COUNSEL",
+  "name" : "OFFICE OF THE PEOPLE'S COUNSEL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C94I00",
+  "current_budget" : "2195126",
+  "department" : "SUBSEQUENT INJURY FUND",
+  "name" : "SUBSEQUENT INJURY FUND",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C96J00",
+  "current_budget" : "1524460",
+  "department" : "UNINSURED EMPLOYERS' FUND",
+  "name" : "UNINSURED EMPLOYERS' FUND",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "C98F00",
+  "current_budget" : "14514727",
+  "department" : "WORKERS' COMPENSATION COMMISSION",
+  "name" : "WORKERS' COMPENSATION COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D05E01",
+  "current_budget" : "8270249",
+  "department" : "BOARD OF PUBLIC WORKS",
+  "name" : "BOARD OF PUBLIC WORKS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D06E02",
+  "current_budget" : "1100000",
+  "department" : "BOARD OF PUBLIC WORKS - CAPITAL APPROPRIATION",
+  "name" : "BOARD OF PUBLIC WORKS - CAPITAL APPROPRIATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D10A01",
+  "current_budget" : "12243737",
+  "department" : "EXECUTIVE DEPARTMENT",
+  "name" : "EXECUTIVE DEPARTMENT - GOVERNOR",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D11A04",
+  "current_budget" : "363066",
+  "department" : "OFFICE OF THE DEAF AND HARD OF HEARING",
+  "name" : "OFFICE OF THE DEAF AND HARD OF HEARING",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D12A02",
+  "current_budget" : "11174511",
+  "department" : "DEPARTMENT OF DISABILITIES",
+  "name" : "DEPARTMENT OF DISABILITIES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D13A13",
+  "current_budget" : "66392189",
+  "department" : "MARYLAND ENERGY ADMINISTRATION",
+  "name" : "MARYLAND ENERGY ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D15A05",
+  "current_budget" : "128163938",
+  "department" : "EXECUTIVE DEPT-BOARDS, COMMISSIONS AND OFFICES",
+  "name" : "EXECUTIVE DEPT-BOARDS, COMMISSIONS AND OFFICES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D16A06",
+  "current_budget" : "2402933",
+  "department" : "SECRETARY OF STATE",
+  "name" : "SECRETARY OF STATE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D17B01",
+  "current_budget" : "3054963",
+  "department" : "HISTORIC ST. MARY'S CITY COMMISSION",
+  "name" : "HISTORIC ST. MARY'S CITY COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D18A18",
+  "current_budget" : "1898176",
+  "department" : "GOVERNOR'S OFFICE FOR CHILDREN",
+  "name" : "GOVERNOR'S OFFICE FOR CHILDREN",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D25E03",
+  "current_budget" : "1864650",
+  "department" : "INTERAGENCY COMMITTEE ON SCHOOL CONSTRUCTION",
+  "name" : "INTERAGENCY COMMITTEE ON SCHOOL CONSTRUCTION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D26A07",
+  "current_budget" : "47883779",
+  "department" : "DEPARTMENT OF AGING",
+  "name" : "DEPARTMENT OF AGING",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D27L00",
+  "current_budget" : "3273901",
+  "department" : "MARYLAND COMMISSION ON CIVIL RIGHTS",
+  "name" : "MARYLAND COMMISSION ON CIVIL RIGHTS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D28A03",
+  "current_budget" : "34746000",
+  "department" : "MARYLAND STADIUM AUTHORITY",
+  "name" : "MARYLAND STADIUM AUTHORITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D38I01",
+  "current_budget" : "14174639",
+  "department" : "STATE BOARD OF ELECTIONS",
+  "name" : "STATE BOARD OF ELECTIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D39S00",
+  "current_budget" : "668775",
+  "department" : "MARYLAND STATE BOARD OF CONTRACT APPEALS",
+  "name" : "MARYLAND STATE BOARD OF CONTRACT APPEALS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D40W01",
+  "current_budget" : "29341352",
+  "department" : "DEPARTMENT OF PLANNING",
+  "name" : "DEPARTMENT OF PLANNING",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D50H01",
+  "current_budget" : "76506314",
+  "department" : "MILITARY DEPARTMENT",
+  "name" : "MILITARY DEPARTMENT OPERATIONS AND MAINTENANCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D53T00",
+  "current_budget" : "24825598",
+  "department" : "MD INSTITUTE FOR EMERGENCY MEDICAL SERVICESSYSTEMS",
+  "name" : "MD INSTITUTE FOR EMERGENCY MEDICAL SERVICESSYSTEMS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D55P00",
+  "current_budget" : "27337596",
+  "department" : "DEPARTMENT OF VETERANS AFFAIRS",
+  "name" : "DEPARTMENT OF VETERANS AFFAIRS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D60A10",
+  "current_budget" : "12784377",
+  "department" : "STATE ARCHIVES",
+  "name" : "STATE ARCHIVES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D78Y01",
+  "current_budget" : "157195531",
+  "department" : "MARYLAND HEALTH BENEFIT EXCHANGE",
+  "name" : "MARYLAND HEALTH BENEFIT EXCHANGE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D79Z02",
+  "current_budget" : "97366555",
+  "department" : "MARYLAND HEALTH INSURANCE PLAN",
+  "name" : "HEALTH INSURANCE SAFETY NET PROGRAMS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D80Z01",
+  "current_budget" : "32697004",
+  "department" : "MARYLAND INSURANCE ADMINISTRATION",
+  "name" : "INSURANCE ADMINISTRATION AND REGULATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D90U00",
+  "current_budget" : "550457",
+  "department" : "CANAL PLACE PRESERVATION AND DEVELOPMENT AUTHORITY",
+  "name" : "CANAL PLACE PRESERVATION AND DEVELOPMENT AUTHORITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "D99A11",
+  "current_budget" : "1200724",
+  "department" : "OFFICE OF ADMINISTRATIVE HEARINGS",
+  "name" : "OFFICE OF ADMINISTRATIVE HEARINGS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A01",
+  "current_budget" : "6652871",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "OFFICE OF THE COMPTROLLER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A02",
+  "current_budget" : "5377691",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "GENERAL ACCOUNTING DIVISION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A03",
+  "current_budget" : "830112",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "BUREAU OF REVENUE ESTIMATES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A04",
+  "current_budget" : "31951177",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "REVENUE ADMINISTRATION DIVISION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A05",
+  "current_budget" : "31816888",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "COMPLIANCE DIVISION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A06",
+  "current_budget" : "5412237",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "FIELD ENFORCEMENT DIVISION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A09",
+  "current_budget" : "2633507",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "CENTRAL PAYROLL BUREAU",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E00A10",
+  "current_budget" : "19124199",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "INFORMATION TECHNOLOGY DIVISION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E20B01",
+  "current_budget" : "5581205",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "TREASURY MANAGEMENT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E20B02",
+  "current_budget" : "0",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "INSURANCE PROTECTION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E20B03",
+  "current_budget" : "1340475",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "BOND SALE EXPENSES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E50C00",
+  "current_budget" : "136544036",
+  "department" : "STATE DEPARTMENT OF ASSESSMENTS AND TAXATION",
+  "name" : "STATE DEPARTMENT OF ASSESSMENTS AND TAXATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E75D00",
+  "current_budget" : "141859443",
+  "department" : "STATE LOTTERY AND GAMING CONTROL AGENCY",
+  "name" : "STATE LOTTERY AND GAMING CONTROL AGENCY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "E80E00",
+  "current_budget" : "1067450",
+  "department" : "PROPERTY TAX ASSESSMENT APPEALS BOARDS",
+  "name" : "PROPERTY TAX ASSESSMENT APPEALS BOARDS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "F10A01",
+  "current_budget" : "18250867",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "F10A02",
+  "current_budget" : "19821035",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF PERSONNEL SERVICES AND BENEFITS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "F10A05",
+  "current_budget" : "2798682",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF BUDGET ANALYSIS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "F10A06",
+  "current_budget" : "998416",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF CAPITAL BUDGETING",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "F50A01",
+  "current_budget" : "22643983",
+  "department" : "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "name" : "MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJ FUND",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "F50B04",
+  "current_budget" : "26892407",
+  "department" : "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "name" : "OFFICE OF INFORMATION TECHNOLOGY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "G20J01",
+  "current_budget" : "18161517",
+  "department" : "MARYLAND STATE RETIREMENT AND PENSION SYSTEMS",
+  "name" : "STATE RETIREMENT AGENCY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "G50L00",
+  "current_budget" : "1666697",
+  "department" : "TEACHERS AND STATE EMPLOYEES SUPP'L RETIREMENT PLN",
+  "name" : "TEACHERS AND STATE EMPLOYEES SUPP'L RETIREMENT PLN",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "H00A01",
+  "current_budget" : "5044546",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "H00B01",
+  "current_budget" : "7504193",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES SECURITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "H00C01",
+  "current_budget" : "34349020",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES OPERATION AND MAINTENANCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "H00D01",
+  "current_budget" : "5333643",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF PROCUREMENT AND LOGISTICS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "H00E01",
+  "current_budget" : "2057386",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF REAL ESTATE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "H00G01",
+  "current_budget" : "12504471",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES PLANNING, DESIGN AND CONSTRUC",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00A01",
+  "current_budget" : "621651883",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "THE SECRETARY'S OFFICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00A04",
+  "current_budget" : "255369913",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "DEBT SERVICE REQUIREMENTS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00B01",
+  "current_budget" : "1648052953",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "STATE HIGHWAY ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00D00",
+  "current_budget" : "146030126",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND PORT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00E00",
+  "current_budget" : "229543332",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MOTOR VEHICLE ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00H01",
+  "current_budget" : "1269692947",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND TRANSIT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "J00I00",
+  "current_budget" : "310504230",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND AVIATION ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A01",
+  "current_budget" : "17236175",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A02",
+  "current_budget" : "11510737",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "FOREST SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A03",
+  "current_budget" : "11740028",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "WILDLIFE AND HERITAGE SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A04",
+  "current_budget" : "41308287",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "MARYLAND PARK SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A05",
+  "current_budget" : "20136041",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "LAND ACQUISITION AND PLANNING",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A06",
+  "current_budget" : "3798580",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "LICENSING AND REGISTRATION SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A07",
+  "current_budget" : "41876068",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "NATURAL RESOURCES POLICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A09",
+  "current_budget" : "4748995",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "ENGINEERING AND CONSTRUCTION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A10",
+  "current_budget" : "2054110",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "CRITICAL AREA COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A11",
+  "current_budget" : "11933150",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "BOATING SERVICES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A12",
+  "current_budget" : "14240182",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "RESOURCE ASSESSMENT SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A13",
+  "current_budget" : "643260",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "MARYLAND ENVIRONMENTAL TRUST",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A14",
+  "current_budget" : "51222999",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "CHESAPEAKE AND COASTAL SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "K00A17",
+  "current_budget" : "23190471",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "FISHERIES SERVICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "L00A11",
+  "current_budget" : "16755852",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "L00A12",
+  "current_budget" : "22533372",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF MARKETING, ANIMAL INDUSTS,&CONSUMER SVCS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "L00A14",
+  "current_budget" : "10954549",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF PLANT INDUSTRIES AND PEST MANAGEMENT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "L00A15",
+  "current_budget" : "23442628",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF RESOURCE CONSERVATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00A01",
+  "current_budget" : "40633412",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00B01",
+  "current_budget" : "51866595",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "REGULATORY SERVICES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00F01",
+  "current_budget" : "6106803",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEPUTY SECRETARY FOR PUBLIC HEALTH SERVICES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00F02",
+  "current_budget" : "57987713",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HEALTH SYSTEMS AND INFRASTRUCTURE ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00F03",
+  "current_budget" : "355374858",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "PREVENTION AND HEALTH PROMOTION ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00F05",
+  "current_budget" : "11510549",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF THE CHIEF MEDICAL EXAMINER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00F06",
+  "current_budget" : "15424312",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF PREPAREDNESS AND RESPONSE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00I03",
+  "current_budget" : "24414966",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "WESTERN MARYLAND CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00I04",
+  "current_budget" : "23590520",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEER'S HEAD CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00J02",
+  "current_budget" : "43838136",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "LABORATORIES ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00K01",
+  "current_budget" : "2044321",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEPUTY SECY FOR BEHAVIORAL HEALTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L01",
+  "current_budget" : "325303212",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "BEHAVIORAL HEALTH ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L04",
+  "current_budget" : "19444008",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "THOMAS B. FINAN HOSPITAL CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L05",
+  "current_budget" : "13566379",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "REGIONAL INSTITUTE FOR CHILDREN & ADOLESCENTS-BALT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L07",
+  "current_budget" : "19000221",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "EASTERN SHORE HOSPITAL CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L08",
+  "current_budget" : "73758320",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "SPRINGFIELD HOSPITAL CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L09",
+  "current_budget" : "79396644",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "SPRING GROVE HOSPITAL CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L10",
+  "current_budget" : "61326367",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "CLIFTON T. PERKINS HOSPITAL CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L11",
+  "current_budget" : "10806323",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "JOHN L. GILDNER REG INST FOR CHILDREN AND ADOLESCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00L15",
+  "current_budget" : "2265117",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "BEHAVIORAL HEALTH ADMINISTRATION FACILITY MAINTENA",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00M01",
+  "current_budget" : "948034746",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEVELOPMENTAL DISABILITIES ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00M05",
+  "current_budget" : "17758259",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HOLLY CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00M06",
+  "current_budget" : "8925081",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DDA COURT INVOLVED SERVICE DELIVERY SYSTEM",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00M07",
+  "current_budget" : "12499507",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "POTOMAC CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00M15",
+  "current_budget" : "1800497",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEVELOPMENTAL DISABILITIES ADMINISTRATION FACILITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00Q01",
+  "current_budget" : "9995213493",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "MEDICAL CARE PROGRAMS ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "M00R01",
+  "current_budget" : "206476384",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HEALTH REGULATORY COMMISSIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00A01",
+  "current_budget" : "28395964",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00B00",
+  "current_budget" : "29774844",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "SOCIAL SERVICES ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00E01",
+  "current_budget" : "32207047",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OPERATIONS OFFICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00F00",
+  "current_budget" : "69532763",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OFFICE OF TECHNOLOGY FOR HUMAN SERVICES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00G00",
+  "current_budget" : "2303946881",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "LOCAL DEPARTMENT OPERATIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00H00",
+  "current_budget" : "40568302",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "CHILD SUPPORT ENFORCEMENT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "N00I00",
+  "current_budget" : "201623842",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "FAMILY INVESTMENT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00A01",
+  "current_budget" : "20854717",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00B01",
+  "current_budget" : "18423883",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00C01",
+  "current_budget" : "9801687",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF FINANCIAL REGULATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00D01",
+  "current_budget" : "18882855",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF LABOR AND INDUSTRY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00E01",
+  "current_budget" : "104851508",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF RACING",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00F01",
+  "current_budget" : "8775847",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSIN",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00G01",
+  "current_budget" : "109724563",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNI",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "P00H01",
+  "current_budget" : "91963917",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF UNEMPLOYMENT INSURANCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00A01",
+  "current_budget" : "139494204",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00A02",
+  "current_budget" : "75019639",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "DEPUTY SECRETARY FOR OPERATIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00A03",
+  "current_budget" : "55682220",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND CORRECTIONAL ENTERPRISES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00C01",
+  "current_budget" : "6027545",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND PAROLE COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00E00",
+  "current_budget" : "1001779",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "INMATE GRIEVANCE OFFICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00G00",
+  "current_budget" : "8663841",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "POLICE AND CORRECTIONAL TRAINING COMMISSIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00K00",
+  "current_budget" : "5007398",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CRIMINAL INJURIES COMPENSATION BOARD",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00N00",
+  "current_budget" : "579234",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND COMMISSION ON CORRECTIONAL STANDARDS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00R01",
+  "current_budget" : "3727115",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - NORTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00R02",
+  "current_budget" : "357420991",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - NORTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00R03",
+  "current_budget" : "20061849",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - NORTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00S01",
+  "current_budget" : "6469119",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - SOUTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00S02",
+  "current_budget" : "303449982",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - SOUTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00S03",
+  "current_budget" : "26758591",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - SOUTH",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00T01",
+  "current_budget" : "4293833",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - CENTRAL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00T02",
+  "current_budget" : "114861066",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - CENTRAL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00T03",
+  "current_budget" : "44248189",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - CENTRAL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Q00T04",
+  "current_budget" : "171963351",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "DETENTION - CENTRAL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R00A01",
+  "current_budget" : "309597118",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "HEADQUARTERS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R00A02",
+  "current_budget" : "7022604483",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "AID TO EDUCATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R00A03",
+  "current_budget" : "32118406",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "FUNDING FOR EDUCATIONAL ORGANIZATIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R00A04",
+  "current_budget" : "21439072",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "CHILDREN'S CABINET INTERAGENCY FUND",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R00A05",
+  "current_budget" : "2324395",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "MARYLAND LONGITUDINAL DATA SYSTEM CENTER",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R13M00",
+  "current_budget" : "224049851",
+  "department" : "MORGAN STATE UNIVERSITY",
+  "name" : "MORGAN STATE UNIVERSITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R14D00",
+  "current_budget" : "73028624",
+  "department" : "ST. MARY'S COLLEGE OF MARYLAND",
+  "name" : "ST. MARY'S COLLEGE OF MARYLAND",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R15P00",
+  "current_budget" : "27762766",
+  "department" : "MARYLAND PUBLIC BROADCASTING COMMISSION",
+  "name" : "MARYLAND PUBLIC BROADCASTING COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B21",
+  "current_budget" : "1073202295",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND, BALTIMORE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B22",
+  "current_budget" : "1861379888",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B23",
+  "current_budget" : "117240898",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "BOWIE STATE UNIVERSITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B24",
+  "current_budget" : "456476524",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "TOWSON UNIVERSITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B25",
+  "current_budget" : "140549658",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND EASTERN SHORE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B26",
+  "current_budget" : "109304311",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "FROSTBURG STATE UNIVERSITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B27",
+  "current_budget" : "90864186",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "COPPIN STATE UNIVERSITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B28",
+  "current_budget" : "138172313",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF BALTIMORE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B29",
+  "current_budget" : "180438842",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "SALISBURY UNIVERSITY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B30",
+  "current_budget" : "387010602",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B31",
+  "current_budget" : "404906505",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B34",
+  "current_budget" : "46794146",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIV OF MD CENTER FOR ENVIRONMENTAL SCIENCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R30B36",
+  "current_budget" : "32111073",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY SYSTEM OF MARYLAND OFFICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R62I00",
+  "current_budget" : "482541367",
+  "department" : "MARYLAND HIGHER EDUCATION COMMISSION",
+  "name" : "MARYLAND HIGHER EDUCATION COMMISSION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R95C00",
+  "current_budget" : "91083757",
+  "department" : "BALTIMORE CITY COMMUNITY COLLEGE",
+  "name" : "BALTIMORE CITY COMMUNITY COLLEGE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R99E01",
+  "current_budget" : "20984917",
+  "department" : "MARYLAND SCHOOL FOR THE DEAF",
+  "name" : "MARYLAND SCHOOL FOR THE DEAF-FREDERICK CAMPUS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "R99E02",
+  "current_budget" : "9881294",
+  "department" : "MARYLAND SCHOOL FOR THE DEAF",
+  "name" : "MARYLAND SCHOOL FOR THE DEAF-COLUMBIA CAMPUS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S00A20",
+  "current_budget" : "7600930",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S00A22",
+  "current_budget" : "6362472",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF CREDIT ASSURANCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S00A24",
+  "current_budget" : "40031392",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF NEIGHBORHOOD REVITALIZATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S00A25",
+  "current_budget" : "304522049",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF DEVELOPMENT FINANCE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S00A26",
+  "current_budget" : "3984521",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF INFORMATION TECHNOLOGY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S00A27",
+  "current_budget" : "12329705",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF FINANCE AND ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "S50B01",
+  "current_budget" : "2000000",
+  "department" : "MARYLAND AFRICAN AMERICAN MUSEUM CORPORATION",
+  "name" : "MARYLAND AFRICAN AMERICAN MUSEUM CORPORATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "T00A00",
+  "current_budget" : "14171262",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "T00E00",
+  "current_budget" : "3268356",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF MARKETING AND COMMUNICATIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "T00F00",
+  "current_budget" : "117536368",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF BUSINESS AND ENTERPRISE DEVELOPMENT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "T00G00",
+  "current_budget" : "41480396",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF TOURISM, FILM AND THE ARTS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "T50T01",
+  "current_budget" : "20073192",
+  "department" : "MARYLAND TECHNOLOGY DEVELOPMENT CORPORATION",
+  "name" : "MARYLAND TECHNOLOGY DEVELOPMENT CORPORATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A01",
+  "current_budget" : "242136842",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A02",
+  "current_budget" : "8763549",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "OPERATIONAL SERVICES ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A04",
+  "current_budget" : "30583957",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "WATER MANAGEMENT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A05",
+  "current_budget" : "12919052",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "SCIENCE SERVICES ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A06",
+  "current_budget" : "34168147",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "LAND MANAGEMENT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A07",
+  "current_budget" : "17013345",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "AIR AND RADIATION MANAGEMENT ADMINISTRATION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "U00A10",
+  "current_budget" : "33131793",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "COORDINATING OFFICES",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00D01",
+  "current_budget" : "4035203",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00D02",
+  "current_budget" : "24807169",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "DEPARTMENTAL SUPPORT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00E01",
+  "current_budget" : "4542835",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "RESIDENTIAL AND COMMUNITY OPERATIONS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00G01",
+  "current_budget" : "68346916",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "BALTIMORE CITY REGION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00H01",
+  "current_budget" : "37693604",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "CENTRAL REGION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00I01",
+  "current_budget" : "44130009",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "WESTERN REGION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00J01",
+  "current_budget" : "23033791",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "EASTERN SHORE REGION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00K01",
+  "current_budget" : "25338886",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "SOUTHERN REGION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "V00L01",
+  "current_budget" : "64197188",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "METRO REGION",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "W00A01",
+  "current_budget" : "335117749",
+  "department" : "DEPARTMENT OF STATE POLICE",
+  "name" : "MARYLAND STATE POLICE",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "W00A02",
+  "current_budget" : "7977425",
+  "department" : "DEPARTMENT OF STATE POLICE",
+  "name" : "FIRE PREVENTION COMMISSION AND FIRE MARSHAL",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "X00A00",
+  "current_budget" : "1039422002",
+  "department" : "PUBLIC DEBT",
+  "name" : "REDEMPTION AND INTEREST ON STATE BONDS",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "Y01A01",
+  "current_budget" : "19713999",
+  "department" : "STATE RESERVE FUND",
+  "name" : "REVENUE STABILIZATION ACCOUNT",
+  "year" : "2015 Proposed"
+}
+, {
+  "id" : "A15O00",
+  "current_budget" : "157478534",
+  "department" : "PAYMENTS TO CIVIL DIVISIONS OF THE STATE",
+  "name" : "DISPARITY GRANTS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "B75A01",
+  "current_budget" : "85251212",
+  "department" : "GENERAL ASSEMBLY OF MARYLAND",
+  "name" : "GENERAL ASSEMBLY OF MARYLAND",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C00A00",
+  "current_budget" : "544538285",
+  "department" : "JUDICIARY",
+  "name" : "JUDICIARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C80B00",
+  "current_budget" : "102188678",
+  "department" : "OFFICE OF THE PUBLIC DEFENDER",
+  "name" : "OFFICE OF THE PUBLIC DEFENDER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C81C00",
+  "current_budget" : "41275379",
+  "department" : "OFFICE OF THE ATTORNEY GENERAL",
+  "name" : "OFFICE OF THE ATTORNEY GENERAL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C82D00",
+  "current_budget" : "1466087",
+  "department" : "OFFICE OF THE STATE PROSECUTOR",
+  "name" : "OFFICE OF THE STATE PROSECUTOR",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C85E00",
+  "current_budget" : "630973",
+  "department" : "MARYLAND TAX COURT",
+  "name" : "MARYLAND TAX COURT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C90G00",
+  "current_budget" : "39035616",
+  "department" : "PUBLIC SERVICE COMMISSION",
+  "name" : "PUBLIC SERVICE COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C91H00",
+  "current_budget" : "4020025",
+  "department" : "OFFICE OF THE PEOPLE'S COUNSEL",
+  "name" : "OFFICE OF THE PEOPLE'S COUNSEL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C94I00",
+  "current_budget" : "2293795",
+  "department" : "SUBSEQUENT INJURY FUND",
+  "name" : "SUBSEQUENT INJURY FUND",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C96J00",
+  "current_budget" : "1546090",
+  "department" : "UNINSURED EMPLOYERS' FUND",
+  "name" : "UNINSURED EMPLOYERS' FUND",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "C98F00",
+  "current_budget" : "14533455",
+  "department" : "WORKERS' COMPENSATION COMMISSION",
+  "name" : "WORKERS' COMPENSATION COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D05E01",
+  "current_budget" : "7355305",
+  "department" : "BOARD OF PUBLIC WORKS",
+  "name" : "BOARD OF PUBLIC WORKS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D06E02",
+  "current_budget" : "30000000",
+  "department" : "BOARD OF PUBLIC WORKS - CAPITAL APPROPRIATION",
+  "name" : "BOARD OF PUBLIC WORKS - CAPITAL APPROPRIATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D10A01",
+  "current_budget" : "12092428",
+  "department" : "EXECUTIVE DEPARTMENT",
+  "name" : "EXECUTIVE DEPARTMENT - GOVERNOR",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D11A04",
+  "current_budget" : "409697",
+  "department" : "OFFICE OF THE DEAF AND HARD OF HEARING",
+  "name" : "OFFICE OF THE DEAF AND HARD OF HEARING",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D12A02",
+  "current_budget" : "12023785",
+  "department" : "DEPARTMENT OF DISABILITIES",
+  "name" : "DEPARTMENT OF DISABILITIES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D13A13",
+  "current_budget" : "50637680",
+  "department" : "MARYLAND ENERGY ADMINISTRATION",
+  "name" : "MARYLAND ENERGY ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D15A05",
+  "current_budget" : "135845057",
+  "department" : "EXECUTIVE DEPT-BOARDS, COMMISSIONS AND OFFICES",
+  "name" : "EXECUTIVE DEPT-BOARDS, COMMISSIONS AND OFFICES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D16A06",
+  "current_budget" : "2570154",
+  "department" : "SECRETARY OF STATE",
+  "name" : "SECRETARY OF STATE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D17B01",
+  "current_budget" : "3273570",
+  "department" : "HISTORIC ST. MARY'S CITY COMMISSION",
+  "name" : "HISTORIC ST. MARY'S CITY COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D18A18",
+  "current_budget" : "1787308",
+  "department" : "GOVERNOR'S OFFICE FOR CHILDREN",
+  "name" : "GOVERNOR'S OFFICE FOR CHILDREN",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D25E03",
+  "current_budget" : "2077668",
+  "department" : "INTERAGENCY COMMITTEE ON SCHOOL CONSTRUCTION",
+  "name" : "INTERAGENCY COMMITTEE ON SCHOOL CONSTRUCTION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D26A07",
+  "current_budget" : "48864335",
+  "department" : "DEPARTMENT OF AGING",
+  "name" : "DEPARTMENT OF AGING",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D27L00",
+  "current_budget" : "3311367",
+  "department" : "MARYLAND COMMISSION ON CIVIL RIGHTS",
+  "name" : "MARYLAND COMMISSION ON CIVIL RIGHTS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D28A03",
+  "current_budget" : "52427000",
+  "department" : "MARYLAND STADIUM AUTHORITY",
+  "name" : "MARYLAND STADIUM AUTHORITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D38I01",
+  "current_budget" : "19592818",
+  "department" : "STATE BOARD OF ELECTIONS",
+  "name" : "STATE BOARD OF ELECTIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D39S00",
+  "current_budget" : "694872",
+  "department" : "MARYLAND STATE BOARD OF CONTRACT APPEALS",
+  "name" : "MARYLAND STATE BOARD OF CONTRACT APPEALS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D40W01",
+  "current_budget" : "28785474",
+  "department" : "DEPARTMENT OF PLANNING",
+  "name" : "DEPARTMENT OF PLANNING",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D50H01",
+  "current_budget" : "115537702",
+  "department" : "MILITARY DEPARTMENT",
+  "name" : "MILITARY DEPARTMENT OPERATIONS AND MAINTENANCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D53T00",
+  "current_budget" : "19022253",
+  "department" : "MD INSTITUTE FOR EMERGENCY MEDICAL SERVICESSYSTEMS",
+  "name" : "MD INSTITUTE FOR EMERGENCY MEDICAL SERVICESSYSTEMS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D55P00",
+  "current_budget" : "28494594",
+  "department" : "DEPARTMENT OF VETERANS AFFAIRS",
+  "name" : "DEPARTMENT OF VETERANS AFFAIRS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D60A10",
+  "current_budget" : "10016219",
+  "department" : "STATE ARCHIVES",
+  "name" : "STATE ARCHIVES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D78Y01",
+  "current_budget" : "77761416",
+  "department" : "MARYLAND HEALTH BENEFIT EXCHANGE",
+  "name" : "MARYLAND HEALTH BENEFIT EXCHANGE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D79Z02",
+  "current_budget" : "19968504",
+  "department" : "MARYLAND HEALTH INSURANCE PLAN",
+  "name" : "HEALTH INSURANCE SAFETY NET PROGRAMS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D80Z01",
+  "current_budget" : "32678121",
+  "department" : "MARYLAND INSURANCE ADMINISTRATION",
+  "name" : "INSURANCE ADMINISTRATION AND REGULATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D90U00",
+  "current_budget" : "548647",
+  "department" : "CANAL PLACE PRESERVATION AND DEVELOPMENT AUTHORITY",
+  "name" : "CANAL PLACE PRESERVATION AND DEVELOPMENT AUTHORITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "D99A11",
+  "current_budget" : "43500",
+  "department" : "OFFICE OF ADMINISTRATIVE HEARINGS",
+  "name" : "OFFICE OF ADMINISTRATIVE HEARINGS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A01",
+  "current_budget" : "7211171",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "OFFICE OF THE COMPTROLLER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A02",
+  "current_budget" : "5704305",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "GENERAL ACCOUNTING DIVISION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A03",
+  "current_budget" : "926976",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "BUREAU OF REVENUE ESTIMATES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A04",
+  "current_budget" : "33963574",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "REVENUE ADMINISTRATION DIVISION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A05",
+  "current_budget" : "37023317",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "COMPLIANCE DIVISION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A06",
+  "current_budget" : "5494684",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "FIELD ENFORCEMENT DIVISION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A09",
+  "current_budget" : "2798821",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "CENTRAL PAYROLL BUREAU",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E00A10",
+  "current_budget" : "19223952",
+  "department" : "COMPTROLLER OF MARYLAND",
+  "name" : "INFORMATION TECHNOLOGY DIVISION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E20B01",
+  "current_budget" : "5928728",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "TREASURY MANAGEMENT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E20B02",
+  "current_budget" : "0",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "INSURANCE PROTECTION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E20B03",
+  "current_budget" : "1382800",
+  "department" : "STATE TREASURER'S OFFICE",
+  "name" : "BOND SALE EXPENSES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E50C00",
+  "current_budget" : "139049538",
+  "department" : "STATE DEPARTMENT OF ASSESSMENTS AND TAXATION",
+  "name" : "STATE DEPARTMENT OF ASSESSMENTS AND TAXATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E75D00",
+  "current_budget" : "104538458",
+  "department" : "STATE LOTTERY AND GAMING CONTROL AGENCY",
+  "name" : "STATE LOTTERY AND GAMING CONTROL AGENCY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "E80E00",
+  "current_budget" : "1096182",
+  "department" : "PROPERTY TAX ASSESSMENT APPEALS BOARDS",
+  "name" : "PROPERTY TAX ASSESSMENT APPEALS BOARDS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "F10A01",
+  "current_budget" : "19137157",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "F10A02",
+  "current_budget" : "42183921",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF PERSONNEL SERVICES AND BENEFITS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "F10A05",
+  "current_budget" : "3065302",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF BUDGET ANALYSIS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "F10A06",
+  "current_budget" : "1130313",
+  "department" : "DEPARTMENT OF BUDGET AND MANAGEMENT",
+  "name" : "OFFICE OF CAPITAL BUDGETING",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "F50A01",
+  "current_budget" : "37451538",
+  "department" : "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "name" : "MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJ FUND",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "F50B04",
+  "current_budget" : "30812277",
+  "department" : "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "name" : "OFFICE OF INFORMATION TECHNOLOGY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "G20J01",
+  "current_budget" : "18532251",
+  "department" : "MARYLAND STATE RETIREMENT AND PENSION SYSTEMS",
+  "name" : "STATE RETIREMENT AGENCY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "G50L00",
+  "current_budget" : "1693123",
+  "department" : "TEACHERS AND STATE EMPLOYEES SUPP'L RETIREMENT PLN",
+  "name" : "TEACHERS AND STATE EMPLOYEES SUPP'L RETIREMENT PLN",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "H00A01",
+  "current_budget" : "4041293",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "H00B01",
+  "current_budget" : "8549297",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES SECURITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "H00C01",
+  "current_budget" : "35167838",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES OPERATION AND MAINTENANCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "H00D01",
+  "current_budget" : "5403340",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF PROCUREMENT AND LOGISTICS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "H00E01",
+  "current_budget" : "2015313",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF REAL ESTATE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "H00G01",
+  "current_budget" : "12734859",
+  "department" : "DEPARTMENT OF GENERAL SERVICES",
+  "name" : "OFFICE OF FACILITIES PLANNING, DESIGN AND CONSTRUC",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00A01",
+  "current_budget" : "623518019",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "THE SECRETARY'S OFFICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00A04",
+  "current_budget" : "282666738",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "DEBT SERVICE REQUIREMENTS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00B01",
+  "current_budget" : "1829550779",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "STATE HIGHWAY ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00D00",
+  "current_budget" : "210817187",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND PORT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00E00",
+  "current_budget" : "233582483",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MOTOR VEHICLE ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00H01",
+  "current_budget" : "1495217440",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND TRANSIT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "J00I00",
+  "current_budget" : "300889833",
+  "department" : "DEPARTMENT OF TRANSPORTATION",
+  "name" : "MARYLAND AVIATION ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A01",
+  "current_budget" : "17924315",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A02",
+  "current_budget" : "11478608",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "FOREST SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A03",
+  "current_budget" : "12238098",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "WILDLIFE AND HERITAGE SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A04",
+  "current_budget" : "40421941",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "MARYLAND PARK SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A05",
+  "current_budget" : "43251437",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "LAND ACQUISITION AND PLANNING",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A06",
+  "current_budget" : "3958501",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "LICENSING AND REGISTRATION SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A07",
+  "current_budget" : "43652488",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "NATURAL RESOURCES POLICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A09",
+  "current_budget" : "4971281",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "ENGINEERING AND CONSTRUCTION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A10",
+  "current_budget" : "2116454",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "CRITICAL AREA COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A11",
+  "current_budget" : "13715760",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "BOATING SERVICES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A12",
+  "current_budget" : "14928904",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "RESOURCE ASSESSMENT SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A13",
+  "current_budget" : "605746",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "MARYLAND ENVIRONMENTAL TRUST",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A14",
+  "current_budget" : "56107267",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "CHESAPEAKE AND COASTAL SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "K00A17",
+  "current_budget" : "21575568",
+  "department" : "DEPARTMENT OF NATURAL RESOURCES",
+  "name" : "FISHERIES SERVICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "L00A11",
+  "current_budget" : "26388549",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "L00A12",
+  "current_budget" : "23417222",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF MARKETING, ANIMAL INDUSTS,&CONSUMER SVCS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "L00A14",
+  "current_budget" : "11119569",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF PLANT INDUSTRIES AND PEST MANAGEMENT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "L00A15",
+  "current_budget" : "24457945",
+  "department" : "DEPARTMENT OF AGRICULTURE",
+  "name" : "OFFICE OF RESOURCE CONSERVATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00A01",
+  "current_budget" : "43278030",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00B01",
+  "current_budget" : "57251892",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "REGULATORY SERVICES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00F01",
+  "current_budget" : "6436218",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEPUTY SECRETARY FOR PUBLIC HEALTH SERVICES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00F02",
+  "current_budget" : "64779953",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HEALTH SYSTEMS AND INFRASTRUCTURE ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00F03",
+  "current_budget" : "334684037",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "PREVENTION AND HEALTH PROMOTION ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00F05",
+  "current_budget" : "11921435",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF THE CHIEF MEDICAL EXAMINER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00F06",
+  "current_budget" : "16249096",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "OFFICE OF PREPAREDNESS AND RESPONSE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00I03",
+  "current_budget" : "25290506",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "WESTERN MARYLAND CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00I04",
+  "current_budget" : "24683367",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEER'S HEAD CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00J02",
+  "current_budget" : "47232504",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "LABORATORIES ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00K01",
+  "current_budget" : "2145027",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEPUTY SECY FOR BEHAVIORAL HEALTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L01",
+  "current_budget" : "320720894",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "BEHAVIORAL HEALTH ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L04",
+  "current_budget" : "20763370",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "THOMAS B. FINAN HOSPITAL CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L05",
+  "current_budget" : "14444419",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "REGIONAL INSTITUTE FOR CHILDREN & ADOLESCENTS-BALT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L07",
+  "current_budget" : "20071793",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "EASTERN SHORE HOSPITAL CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L08",
+  "current_budget" : "77708532",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "SPRINGFIELD HOSPITAL CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L09",
+  "current_budget" : "83566920",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "SPRING GROVE HOSPITAL CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L10",
+  "current_budget" : "64520192",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "CLIFTON T. PERKINS HOSPITAL CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L11",
+  "current_budget" : "11847566",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "JOHN L. GILDNER REG INST FOR CHILDREN AND ADOLESCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00L15",
+  "current_budget" : "1878222",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "BEHAVIORAL HEALTH ADMINISTRATION FACILITY MAINTENA",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00M01",
+  "current_budget" : "1036265014",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEVELOPMENTAL DISABILITIES ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00M05",
+  "current_budget" : "18759956",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HOLLY CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00M06",
+  "current_budget" : "9182891",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DDA COURT INVOLVED SERVICE DELIVERY SYSTEM",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00M07",
+  "current_budget" : "13062251",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "POTOMAC CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00M15",
+  "current_budget" : "1054538",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "DEVELOPMENTAL DISABILITIES ADMINISTRATION FACILITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00Q01",
+  "current_budget" : "9878247659",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "MEDICAL CARE PROGRAMS ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "M00R01",
+  "current_budget" : "198948754",
+  "department" : "DEPARTMENT OF HEALTH AND MENTAL HYGIENE",
+  "name" : "HEALTH REGULATORY COMMISSIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00A01",
+  "current_budget" : "30089457",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00B00",
+  "current_budget" : "26505929",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "SOCIAL SERVICES ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00E01",
+  "current_budget" : "32129457",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OPERATIONS OFFICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00F00",
+  "current_budget" : "72818104",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "OFFICE OF TECHNOLOGY FOR HUMAN SERVICES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00G00",
+  "current_budget" : "2215372587",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "LOCAL DEPARTMENT OPERATIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00H00",
+  "current_budget" : "42715849",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "CHILD SUPPORT ENFORCEMENT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "N00I00",
+  "current_budget" : "197405897",
+  "department" : "DEPARTMENT OF HUMAN RESOURCES",
+  "name" : "FAMILY INVESTMENT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00A01",
+  "current_budget" : "20289750",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00B01",
+  "current_budget" : "20441956",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00C01",
+  "current_budget" : "10460767",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF FINANCIAL REGULATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00D01",
+  "current_budget" : "20102304",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF LABOR AND INDUSTRY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00E01",
+  "current_budget" : "98368433",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF RACING",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00F01",
+  "current_budget" : "8993982",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSIN",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00G01",
+  "current_budget" : "104723209",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNI",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "P00H01",
+  "current_budget" : "85596710",
+  "department" : "DEPARTMENT OF LABOR, LICENSING, AND REGULATION",
+  "name" : "DIVISION OF UNEMPLOYMENT INSURANCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00A01",
+  "current_budget" : "141524263",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00A02",
+  "current_budget" : "81388654",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "DEPUTY SECRETARY FOR OPERATIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00A03",
+  "current_budget" : "57839262",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND CORRECTIONAL ENTERPRISES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00C01",
+  "current_budget" : "6191863",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND PAROLE COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00E00",
+  "current_budget" : "1091309",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "INMATE GRIEVANCE OFFICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00G00",
+  "current_budget" : "8935657",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "POLICE AND CORRECTIONAL TRAINING COMMISSIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00K00",
+  "current_budget" : "5171024",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CRIMINAL INJURIES COMPENSATION BOARD",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00N00",
+  "current_budget" : "536728",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "MARYLAND COMMISSION ON CORRECTIONAL STANDARDS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00R01",
+  "current_budget" : "3917261",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - NORTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00R02",
+  "current_budget" : "378040289",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - NORTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00R03",
+  "current_budget" : "21417359",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - NORTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00S01",
+  "current_budget" : "6905060",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - SOUTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00S02",
+  "current_budget" : "324563554",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - SOUTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00S03",
+  "current_budget" : "27663495",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - SOUTH",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00T01",
+  "current_budget" : "4345983",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "GENERAL ADMINISTRATION - CENTRAL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00T02",
+  "current_budget" : "112359106",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "CORRECTIONS - CENTRAL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00T03",
+  "current_budget" : "46642051",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "COMMUNITY SUPERVISION - CENTRAL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Q00T04",
+  "current_budget" : "177355523",
+  "department" : "DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERV",
+  "name" : "DETENTION - CENTRAL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R00A01",
+  "current_budget" : "295230007",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "HEADQUARTERS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R00A02",
+  "current_budget" : "7219593864",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "AID TO EDUCATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R00A03",
+  "current_budget" : "32373328",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "FUNDING FOR EDUCATIONAL ORGANIZATIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R00A04",
+  "current_budget" : "23020000",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "CHILDREN'S CABINET INTERAGENCY FUND",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R00A05",
+  "current_budget" : "2211074",
+  "department" : "STATE DEPARTMENT OF EDUCATION",
+  "name" : "MARYLAND LONGITUDINAL DATA SYSTEM CENTER",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R13M00",
+  "current_budget" : "232673670",
+  "department" : "MORGAN STATE UNIVERSITY",
+  "name" : "MORGAN STATE UNIVERSITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R14D00",
+  "current_budget" : "72799470",
+  "department" : "ST. MARY'S COLLEGE OF MARYLAND",
+  "name" : "ST. MARY'S COLLEGE OF MARYLAND",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R15P00",
+  "current_budget" : "31624260",
+  "department" : "MARYLAND PUBLIC BROADCASTING COMMISSION",
+  "name" : "MARYLAND PUBLIC BROADCASTING COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B21",
+  "current_budget" : "1090004126",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND, BALTIMORE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B22",
+  "current_budget" : "1934438338",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B23",
+  "current_budget" : "121632696",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "BOWIE STATE UNIVERSITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B24",
+  "current_budget" : "472883031",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "TOWSON UNIVERSITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B25",
+  "current_budget" : "144362581",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND EASTERN SHORE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B26",
+  "current_budget" : "113691829",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "FROSTBURG STATE UNIVERSITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B27",
+  "current_budget" : "93511004",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "COPPIN STATE UNIVERSITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B28",
+  "current_budget" : "141939861",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF BALTIMORE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B29",
+  "current_budget" : "189026049",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "SALISBURY UNIVERSITY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B30",
+  "current_budget" : "394139305",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B31",
+  "current_budget" : "419610448",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B34",
+  "current_budget" : "48493578",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIV OF MD CENTER FOR ENVIRONMENTAL SCIENCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R30B36",
+  "current_budget" : "33927620",
+  "department" : "UNIVERSITY SYSTEM OF MARYLAND",
+  "name" : "UNIVERSITY SYSTEM OF MARYLAND OFFICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R62I00",
+  "current_budget" : "484302491",
+  "department" : "MARYLAND HIGHER EDUCATION COMMISSION",
+  "name" : "MARYLAND HIGHER EDUCATION COMMISSION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R95C00",
+  "current_budget" : "89655893",
+  "department" : "BALTIMORE CITY COMMUNITY COLLEGE",
+  "name" : "BALTIMORE CITY COMMUNITY COLLEGE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R99E01",
+  "current_budget" : "21594600",
+  "department" : "MARYLAND SCHOOL FOR THE DEAF",
+  "name" : "MARYLAND SCHOOL FOR THE DEAF-FREDERICK CAMPUS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "R99E02",
+  "current_budget" : "10729093",
+  "department" : "MARYLAND SCHOOL FOR THE DEAF",
+  "name" : "MARYLAND SCHOOL FOR THE DEAF-COLUMBIA CAMPUS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S00A20",
+  "current_budget" : "9965272",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S00A22",
+  "current_budget" : "6377876",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF CREDIT ASSURANCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S00A24",
+  "current_budget" : "38966362",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF NEIGHBORHOOD REVITALIZATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S00A25",
+  "current_budget" : "314454252",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF DEVELOPMENT FINANCE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S00A26",
+  "current_budget" : "4459194",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF INFORMATION TECHNOLOGY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S00A27",
+  "current_budget" : "9469305",
+  "department" : "DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
+  "name" : "DIVISION OF FINANCE AND ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "S50B01",
+  "current_budget" : "2000000",
+  "department" : "MARYLAND AFRICAN AMERICAN MUSEUM CORPORATION",
+  "name" : "MARYLAND AFRICAN AMERICAN MUSEUM CORPORATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "T00A00",
+  "current_budget" : "14513815",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "T00E00",
+  "current_budget" : "3571042",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF MARKETING AND COMMUNICATIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "T00F00",
+  "current_budget" : "92764311",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF BUSINESS AND ENTERPRISE DEVELOPMENT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "T00G00",
+  "current_budget" : "32620598",
+  "department" : "DEPARTMENT OF BUSINESS AND ECONOMIC DEVELOPMENT",
+  "name" : "DIVISION OF TOURISM, FILM AND THE ARTS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "T50T01",
+  "current_budget" : "18923192",
+  "department" : "MARYLAND TECHNOLOGY DEVELOPMENT CORPORATION",
+  "name" : "MARYLAND TECHNOLOGY DEVELOPMENT CORPORATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A01",
+  "current_budget" : "241456369",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A02",
+  "current_budget" : "9135909",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "OPERATIONAL SERVICES ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A04",
+  "current_budget" : "31108966",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "WATER MANAGEMENT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A05",
+  "current_budget" : "13124962",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "SCIENCE SERVICES ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A06",
+  "current_budget" : "35063299",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "LAND MANAGEMENT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A07",
+  "current_budget" : "17892383",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "AIR AND RADIATION MANAGEMENT ADMINISTRATION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "U00A10",
+  "current_budget" : "38304509",
+  "department" : "DEPARTMENT OF THE ENVIRONMENT",
+  "name" : "COORDINATING OFFICES",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00D01",
+  "current_budget" : "3614951",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "OFFICE OF THE SECRETARY",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00D02",
+  "current_budget" : "26256481",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "DEPARTMENTAL SUPPORT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00E01",
+  "current_budget" : "4991218",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "RESIDENTIAL AND COMMUNITY OPERATIONS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00G01",
+  "current_budget" : "66356439",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "BALTIMORE CITY REGION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00H01",
+  "current_budget" : "38525493",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "CENTRAL REGION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00I01",
+  "current_budget" : "48058578",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "WESTERN REGION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00J01",
+  "current_budget" : "24839438",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "EASTERN SHORE REGION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00K01",
+  "current_budget" : "28417904",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "SOUTHERN REGION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "V00L01",
+  "current_budget" : "62632728",
+  "department" : "DEPARTMENT OF JUVENILE SERVICES",
+  "name" : "METRO REGION",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "W00A01",
+  "current_budget" : "347546480",
+  "department" : "DEPARTMENT OF STATE POLICE",
+  "name" : "MARYLAND STATE POLICE",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "W00A02",
+  "current_budget" : "8032330",
+  "department" : "DEPARTMENT OF STATE POLICE",
+  "name" : "FIRE PREVENTION COMMISSION AND FIRE MARSHAL",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "X00A00",
+  "current_budget" : "1130855189",
+  "department" : "PUBLIC DEBT",
+  "name" : "REDEMPTION AND INTEREST ON STATE BONDS",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Y01A01",
+  "current_budget" : "50000000",
+  "department" : "STATE RESERVE FUND",
+  "name" : "REVENUE STABILIZATION ACCOUNT",
+  "year" : "2016 Proposed"
+}
+, {
+  "id" : "Y01A02",
+  "current_budget" : "150000000",
+  "department" : "STATE RESERVE FUND",
+  "name" : "DEDICATED PURPOSE ACCOUNT",
+  "year" : "2016 Proposed"
+}
+ ]

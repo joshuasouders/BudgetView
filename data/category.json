@@ -1,0 +1,290 @@
+[
+  {
+    "Code":"A15",
+    "Category":"Other"
+  },
+  {
+    "Code":"B75",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C00",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C80",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C81",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C82",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C85",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C90",
+    "Category":"Other"
+  },
+  {
+    "Code":"C91",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C94",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C96",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"C98",
+    "Category":"Legislative, Judicial, Legal"
+  },
+  {
+    "Code":"D05",
+    "Category":"Other"
+  },
+  {
+    "Code":"D10",
+    "Category":"Other"
+  },
+  {
+    "Code":"D11",
+    "Category":"Health"
+  },
+  {
+    "Code":"D12",
+    "Category":"Health"
+  },
+  {
+    "Code":"D13",
+    "Category":"Natural Resources and Environment"
+  },
+  {
+    "Code":"D15",
+    "Category":"Other"
+  },
+  {
+    "Code":"D15A16",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"D16",
+    "Category":"Other"
+  },
+  {
+    "Code":"D17",
+    "Category":"Other"
+  },
+  {
+    "Code":"D18",
+    "Category":"Human Resources"
+  },
+  {
+    "Code":"D25",
+    "Category":"Elementary and Secondary Education"
+  },
+  {
+    "Code":"D26",
+    "Category":"Health"
+  },
+  {
+    "Code":"D27",
+    "Category":"Human Resources"
+  },
+  {
+    "Code":"D28",
+    "Category":"Other"
+  },
+  {
+    "Code":"D38",
+    "Category":"Other"
+  },
+  {
+    "Code":"D39",
+    "Category":"Other"
+  },
+  {
+    "Code":"D40",
+    "Category":"Natural Resources and Environment"
+  },
+  {
+    "Code":"D50",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"D53",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"D55",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"D60",
+    "Category":"Other"
+  },
+  {
+    "Code":"D78",
+    "Category":"Health"
+  },
+  {
+    "Code":"D79",
+    "Category":"Health"
+  },
+  {
+    "Code":"D80",
+    "Category":"Health"
+  },
+  {
+    "Code":"D90",
+    "Category":"Other"
+  },
+  {
+    "Code":"D99",
+    "Category":"Other"
+  },
+  {
+    "Code":"E00",
+    "Category":"Other"
+  },
+  {
+    "Code":"E20",
+    "Category":"Other"
+  },
+  {
+    "Code":"E50",
+    "Category":"Other"
+  },
+  {
+    "Code":"E75",
+    "Category":"Other"
+  },
+  {
+    "Code":"E80",
+    "Category":"Other"
+  },
+  {
+    "Code":"F10",
+    "Category":"Other"
+  },
+  {
+    "Code":"F50",
+    "Category":"Other"
+  },
+  {
+    "Code":"G20",
+    "Category":"Other"
+  },
+  {
+    "Code":"G50",
+    "Category":"Other"
+  },
+  {
+    "Code":"H00",
+    "Category":"Other"
+  },
+  {
+    "Code":"J00",
+    "Category":"Transportation"
+  },
+  {
+    "Code":"K00",
+    "Category":"Natural Resources and Environment"
+  },
+  {
+    "Code":"L00",
+    "Category":"Natural Resources and Environment"
+  },
+  {
+    "Code":"M00",
+    "Category":"Health"
+  },
+  {
+    "Code":"N00",
+    "Category":"Human Resources"
+  },
+  {
+    "Code":"P00",
+    "Category":"Other"
+  },
+  {
+    "Code":"Q00",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"R00",
+    "Category":"Elementary and Secondary Education"
+  },
+  {
+    "Code":"R13",
+    "Category":"Higher Education"
+  },
+  {
+    "Code":"R14",
+    "Category":"Higher Education"
+  },
+  {
+    "Code":"R15",
+    "Category":"Other"
+  },
+  {
+    "Code":"R30",
+    "Category":"Higher Education"
+  },
+  {
+    "Code":"R62",
+    "Category":"Higher Education"
+  },
+  {
+    "Code":"R95",
+    "Category":"Higher Education"
+  },
+  {
+    "Code":"R99",
+    "Category":"Elementary and Secondary Education"
+  },
+  {
+    "Code":"S00",
+    "Category":"Human Resources"
+  },
+  {
+    "Code":"S50",
+    "Category":"Other"
+  },
+  {
+    "Code":"T00",
+    "Category":"Other"
+  },
+  {
+    "Code":"T50",
+    "Category":"Other"
+  },
+  {
+    "Code":"U00",
+    "Category":"Natural Resources and Environment"
+  },
+  {
+    "Code":"V00",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"W00",
+    "Category":"Public Safety"
+  },
+  {
+    "Code":"X00",
+    "Category":"Public Debt"
+  },
+  {
+    "Code":"Y01",
+    "Category":"Reserve Fund"
+  }
+]
